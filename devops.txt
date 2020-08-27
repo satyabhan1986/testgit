@@ -1,3 +1,8 @@
 Wed, Aug 26, 2020  7:34:18 PM
 This file is to be used for DEVOPS learning.
 DEVOPS is used to work with different teams in colloboration to remove old methods of HDLC.
+Wed, Aug 26, 2020  9:25:16 PM
+Thu, Aug 27, 2020 10:28:51 AM
+
+new change
+Thu, Aug 27, 2020  3:05:44 PM
